@@ -1,6 +1,8 @@
-# Construire Site Premium
+# Construire un site web designer comme un pro
 
-Crée des sites web professionnels et animés avec l'IA, sans expérience en code. Ce skill installe trois outils qui transforment Claude en studio de design web complet.
+Crée des sites web professionnels et animés avec l'IA, sans expérience en code. 
+
+Ce skill installe trois outils qui transforment Claude en studio de design web complet.
 
 Créé par [@Prault_Jerome](https://www.instagram.com/prault_jerome)
 
